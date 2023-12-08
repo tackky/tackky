@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working in Japan, working from home.
-- 🌱 I’m currently learning S/4 HANA, BTP and so on. 
-- :books: I'm studied Computer Science, especially about image processing.
-- :office: I want to become a developer.
+- 🔭 I’m currently working in Japan, working from home. 
+- :books: I'm studied Computer Science in University, especially about image processing.
+- :office: I want to become a developer!
